@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.EjercicioRR7;
+package com.mycompany.ejercicior07;
 
 
 public class EjercicioRR7 {
