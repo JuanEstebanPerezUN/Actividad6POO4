@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.EjercicioPP18;
+package com.mycompany.mavenproject1;
 
 
 public class EjercicioPP18 {
